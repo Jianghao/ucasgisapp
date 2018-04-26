@@ -11,6 +11,11 @@ output:
     number_sections: true
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning=FALSE)
+```
+
+
 # 引言
 本练习介绍如何利用命令行工具，完成基本的数据分析。
 

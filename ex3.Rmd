@@ -11,6 +11,10 @@ output:
     number_sections: true
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning=FALSE)
+```
+
 # 引言
 介绍如何利用R进行空间数据分析。
 

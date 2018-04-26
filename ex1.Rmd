@@ -11,6 +11,10 @@ output:
     number_sections: true
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning=FALSE)
+```
+
 # 引言
 
 本练习为[国科大](http://www.ucas.ac.cn/)**地理信息系统应用**课程中的**城市感知与计算**的配套上机实践。
