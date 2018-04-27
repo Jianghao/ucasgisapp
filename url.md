@@ -1,0 +1,1 @@
+curl 'https://api.waqi.info/mapq/bounds/?bounds=7.798078531355303,86.04492187500001,52.74959372674117,121.02539062500001&inc=placeholders&k=_2Y2EzUR9YHVwfDQkISDJWXmldWkY9LRUZFGgjZw==&_=1524812080641' -o aqi.json
